@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: T.J. Sullivan
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: T.J.
+last_name: Sullivan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate, Clinical Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Stony Brook University
+    url: https://www.stonybrook.edu/commcms/psychology/clinical/#Accreditation
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,15 +29,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D., Clinical Psychology
+      institution: Stony Brook University
+      year: 2018-2024 (anticipated)
+    - course: B.A., Psychology, French; Minor in Dance
+      institution: The Pennsylvania State University
+      year: 2012-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,7 +46,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/tj_sull
     label: Follow me on Twitter
     display:
       header: true
