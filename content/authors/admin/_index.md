@@ -85,10 +85,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a 5th year Ph.D. candidate in Clinical Psychology at Stony Brook University, co-mentored by Dr. Dan O'Leary and Dr. Joanne Davila. My research spans the domains of stress, trauma, violence, close relationships, and LGBTQ+ stigma. Broadly, I seek to understand how adversity, trauma, and stigma can bring people in close relationships together or tear them apart. I'm especially interested in understanding these processes among LGBTQ+ populations. Because relationships are a key foundation to psychotherapy, I believe generating new knowledge in these areas can is especially important for maximizing therapeutic change. 
+I'm a 5th year Ph.D. candidate in Clinical Psychology at Stony Brook University, co-mentored by Dr. Dan O'Leary and Dr. Joanne Davila. My research spans the domains of stress, trauma, violence, close relationships, and LGBTQ+ stigma. Broadly, I seek to understand how adversity, trauma, and stigma can bring people in close relationships together or tear them apart. Because relationships are a key foundation to psychotherapy, I believe generating new knowledge in these areas is especially important for fine-tuning interventions to maximize therapeutic change. Before graduate school, I worked as a senior research assistant with Dr. John Pachankis at the Yale LGBTQ+ Mental Health Initiative in New York City. During my undergraduate years at Penn State, I worked with Dr. Amy Marshall and Dr. Louis Castonguay. 
 
-Before graduate school, I worked as a senior research assistant in New York City from 2016-2018 under Dr. John Pachankis at the Yale LGBTQ+ Mental Health Initiative.  
-
-WIP!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+To see more about me and my work, you can {{< staticref "uploads/demo_resume.pdf" "newtab" >}} download my CV here{{< /staticref >}}. As my time permits, in the future I plan to contribute to the blog section of this website with posts focused on data analysis. 
