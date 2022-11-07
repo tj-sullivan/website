@@ -20,16 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include violence, trauma, stress, couples, and LGBTQ+ stigma.
 
-# Interests to show in About widget
-interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
-
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D., Clinical Psychology
+    - course: Ph.D. (Candidate), Clinical Psychology
       institution: Stony Brook University
       year: 2018-2024 (anticipated)
     - course: B.A., Psychology, French; Minor in Dance
