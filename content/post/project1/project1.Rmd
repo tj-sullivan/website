@@ -1,7 +1,7 @@
 ---
 title: "This is a test of Project 1"
 subtitle: "Let's see how this goes." 
-summary: "This is a summary of this post."
+summary: "This is a summary of this post. Woo."
 output: github_document
 editor_options: 
   chunk_output_type: inline
