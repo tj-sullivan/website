@@ -35,7 +35,7 @@ education:
       institution: Stony Brook University
       year: 
     - course: M.A., Psychology
-      instituion: Stony Brook University
+      institution: Stony Brook University
       year: 2020
     - course: B.A., Psychology, French; Dance Minor 
       institution: The Pennsylvania State University
