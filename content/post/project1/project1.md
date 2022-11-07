@@ -1,7 +1,7 @@
-project1
+This is a test of Project 1
 ================
-T.J. Sullivan
-2022-11-06
+
+Date: 2022-11-07
 
 Hello! This RMarkdown is for going through the first project of the
 book. :)
@@ -116,7 +116,7 @@ We can roll a die through an existing R function, `sample()`.
 sample(x = die, size = 1)
 ```
 
-    ## [1] 5
+    ## [1] 6
 
 Note that the `sample()` function has two arguments, `x` and `size`. To
 see how many arguments a function takes, you can execuute this:
@@ -142,7 +142,7 @@ without, meaning you can’t roll snake eyes)
 sample(x = die, size = 2, replace = TRUE)
 ```
 
-    ## [1] 2 4
+    ## [1] 1 1
 
 # Writing your own functions
 
@@ -175,7 +175,7 @@ Now let’s run it:
 roll()
 ```
 
-    ## [1] 11
+    ## [1] 12
 
 Typing the function WITHOUT parentheses will give you what is contained
 insidie the function:
@@ -213,7 +213,7 @@ Now run the default:
 roll2()
 ```
 
-    ## [1] 5
+    ## [1] 11
 
 Now 20-sided dice:
 
@@ -221,7 +221,7 @@ Now 20-sided dice:
 roll2(bones = 1:20)
 ```
 
-    ## [1] 30
+    ## [1] 27
 
 One thing that’s really cool about this is that writing your own
 functions is basically like adding in your own command to a program like
@@ -288,7 +288,7 @@ replicate(3, 1 + 1)
 replicate(10, roll())
 ```
 
-    ##  [1]  5  9  7  5  7  7  7 12  8 10
+    ##  [1]  7  8  9  7 10  9  5 10  6  4
 
 Let’s go ahead and simualte 10,000 dice rolls to see what this will look
 like.
@@ -314,7 +314,7 @@ roll <- function() {
 roll()
 ```
 
-    ## [1] 4
+    ## [1] 11
 
 ``` r
 rolls <- replicate(10000, roll())

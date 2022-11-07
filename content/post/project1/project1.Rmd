@@ -1,7 +1,7 @@
 ---
-title: "project1"
-author: "T.J. Sullivan"
-date: "`r Sys.Date()`"
+title: "This is a test of Project 1"
+subtitle: "Let's see how this goes." 
+summary: "This is a summary of this post."
 output: github_document
 editor_options: 
   chunk_output_type: inline
@@ -10,6 +10,8 @@ editor_options:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+Date: `r Sys.Date()`
 
 Hello! This RMarkdown is for going through the first project of the book. :)
 
