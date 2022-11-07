@@ -1,5 +1,43 @@
-This is a test of Project 1
-================
+---
+title: Yay this is a blog post title
+subtitle: Let's see if this works
+
+# Summary for listings and search engines
+summary: Hellow world
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: '`r Sys.Date()`'
+
+# Date updated
+lastmod: '`r Sys.Date()`'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+#  caption: 'Image credit: #[**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#  focal_point: ''
+#  placement: 2
+#  preview_only: false
+
+authors:
+  - T.J. Sullivan
+
+tags:
+  - Academic
+
+#categories:
+#  - Demo
+#  - 教程
+---
 
 Date: 2022-11-07
 
