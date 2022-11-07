@@ -20,15 +20,26 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include violence, trauma, stress, couples, and LGBTQ+ stigma.
 
+# Interests to show in About widget
+interests:
+  - Violence, trauma, PTSD
+  - Couples, interpersonal relationships
+  - LGBTQ+ stigma, minority stress
+  - Psychotherapy process
+  - Quantitative methodology
+
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. (Candidate), Clinical Psychology
+    - course: Ph.D. Candidate, Clinical Psychology
       institution: Stony Brook University
-      year: 2018-2024 (anticipated)
-    - course: B.A., Psychology, French; Minor in Dance
+      year: 
+    - course: M.A., Psychology
+      instituion: Stony Brook University
+      year: 2020
+    - course: B.A., Psychology, French; Dance Minor 
       institution: The Pennsylvania State University
-      year: 2012-2015
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
