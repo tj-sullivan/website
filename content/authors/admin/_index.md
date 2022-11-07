@@ -48,22 +48,28 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'tj.sullivan@stonybrook.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tj_sull
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=0Uv1iDEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/tj-sullivan
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Timothy-Sullivan-12
+  - icon: osf
+    icon_pack: ai
+    link: https://osf.io/fw4gt
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -81,4 +87,4 @@ highlight_name: true
 
 This is going to be my biography when I finally write this. This site is currently a work in progress.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
