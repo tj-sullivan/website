@@ -18,7 +18,7 @@ organizations:
     url: https://www.stonybrook.edu/commcms/psychology/clinical/#Accreditation
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include violence, trauma, stress, couples, and LGBTQ+ stigma.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tj.sullivan@stonybrook.edu'
+    link: 'mailto:tj.sullivan@stonybrook.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tj_sull
@@ -85,6 +85,10 @@ email: ''
 highlight_name: true
 ---
 
-This is going to be my biography when I finally write this. This site is currently a work in progress.
+I am a 5th year Ph.D. candidate in Clinical Psychology at Stony Brook University, co-mentored by Dr. Dan O'Leary and Dr. Joanne Davila. My research spans the domains of stress, trauma, violence, close relationships, and LGBTQ+ stigma. Broadly, I seek to understand how adversity, trauma, and stigma can bring people in close relationships together or tear them apart. I'm especially interested in understanding these processes among LGBTQ+ populations. Because relationships are a key foundation to psychotherapy, I believe generating new knowledge in these areas can is especially important for maximizing therapeutic change. 
+
+Before graduate school, I worked as a senior research assistant in New York City from 2016-2018 under Dr. John Pachankis at the Yale LGBTQ+ Mental Health Initiative.  
+
+WIP!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
