@@ -2,7 +2,7 @@
 title: "Example article 1"
 authors:
 - admin
-- author2
+- person 2
 date: "2023"
 doi: "666.666"
 
@@ -59,5 +59,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ''
+slides: ""
 ---
