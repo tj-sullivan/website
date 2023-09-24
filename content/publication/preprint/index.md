@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
@@ -53,7 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects: []
 - internal-project
 
 # Slides (optional).
@@ -61,11 +61,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out #the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and #images](https://wowchemy.com/docs/writing-markdown-latex/).
