@@ -93,4 +93,4 @@ highlight_name: true
 
 I'm currently a Postdoctoral Research Associate with the Yale LGBTQ Mental Health Initiative at the Yale School of Public Health in the Department of Social and Behavioral Sciences. I earned my PhD in Clinical Psychology with an Advanced Certificate in Quantitative Methods at Stony Brook University under the mentorship of Dr. Dan O'Leary and Dr. Joanne Davila and I completed my clinical residency at the VA Puget Sound Healthcare System, Seattle Division. Broadly, I am interested in how multiple manifestations of stress, from everyday hassles to chronic stigma to acute trauma, impact mental health and interpersonal relationships. In my work, I focus on LGBTQ+ populations and advanced quantitative methodologies (e.g., MLM, SEM, psychometrics, Bayesian approaches). To see more about me and my work, you can {{< staticref "uploads/cv.pdf" "newtab" >}} download my CV here{{< /staticref >}}.
 
-Please note: this website is very much a work in progress :)
+Please note: this website is a work in progress!
