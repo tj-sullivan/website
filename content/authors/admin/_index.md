@@ -55,12 +55,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/tjsullivan.bsky.social
-    label: Follow me on Blue Sky 
-    display:
-      header: true
+#  - icon: bluesky
+#    icon_pack: fab
+#    link: https://bsky.app/profile/tjsullivan.bsky.social
+#    label: Follow me on Blue Sky 
+#    display:
+#      header: true
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=0Uv1iDEAAAAJ&hl=en
