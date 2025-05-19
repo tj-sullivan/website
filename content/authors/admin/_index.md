@@ -1,6 +1,6 @@
 ---
 # Display name
-title: T.J. Sullivan
+title: T.J. Sullivan, Ph.D.
 
 # Full name (for SEO)
 first_name: T.J.
@@ -10,12 +10,12 @@ last_name: Sullivan
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Clinical Psychology
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stony Brook University
-    url: https://www.stonybrook.edu/commcms/psychology/clinical/#Accreditation
+  - name: Yale School of Public Health
+    url: https://medicine.yale.edu/lgbtqmentalhealth/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -31,9 +31,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. Candidate, Clinical Psychology
+    - course: Ph.D., Clinical Psychology
       institution: Stony Brook University
-      year: 
+      year: 2024
     - course: M.A., Psychology
       institution: Stony Brook University
       year: 2020
@@ -48,11 +48,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tj.sullivan@stonybrook.edu'
+    link: 'mailto:tj.sullivan@yale.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tj_sull
     label: Follow me on Twitter
+    display:
+      header: true
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/tjsullivan.bsky.social
+    label: Follow me on Blue Sky 
     display:
       header: true
   - icon: google-scholar
@@ -67,9 +73,9 @@ social:
   - icon: osf
     icon_pack: ai
     link: https://osf.io/fw4gt
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tj-sullivan-phd-548a2b89/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -85,6 +91,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm a 5th year Ph.D. candidate in Clinical Psychology at Stony Brook University, co-mentored by Dr. Dan O'Leary and Dr. Joanne Davila. My research spans the domains of stress, trauma, violence, close relationships, and LGBTQ+ stigma. Broadly, I seek to understand how adversity, trauma, and stigma can bring people in close relationships together or tear them apart. Because relationships are a key foundation to psychotherapy, I believe generating new knowledge in these areas is especially important for fine-tuning interventions to maximize therapeutic change. Before graduate school, I worked as a senior research assistant with Dr. John Pachankis at the Yale LGBTQ+ Mental Health Initiative in New York City. During my undergraduate years at Penn State, I worked with Dr. Amy Marshall and Dr. Louis Castonguay. To see more about me and my work, you can {{< staticref "uploads/cv.pdf" "newtab" >}} download my CV here{{< /staticref >}}. As my time permits, in the future I plan to contribute to the blog section of this website with posts focused on data analysis. 
+I'm currently a Postdoctoral Research Associate with the Yale LGBTQ Mental Health Initiative at the Yale School of Public Health in the Department of Social and Behavioral Sciences. I earned my PhD in Clinical Psychology with an Advanced Certificate in Quantitative Methods at Stony Brook University under the mentorship of Dr. Dan O'Leary and Dr. Joanne Davila and I completed my clinical residency at the VA Puget Sound Healthcare System, Seattle Division. Broadly, I am interested in how multiple manifestations of stress, from everyday hassles to chronic stigma to acute trauma, impact mental health and interpersonal relationships. In my work, I focus on LGBTQ+ populations and advanced quantitative methodologies (e.g., MLM, SEM, psychometrics, Bayesian approaches). To see more about me and my work, you can {{< staticref "uploads/cv.pdf" "newtab" >}} download my CV here{{< /staticref >}}.
 
-Please note: this website is very much a work in progress :) 
+Please note: this website is very much a work in progress :)
